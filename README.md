@@ -8,6 +8,7 @@ I usually work with:
 - Angular
 - React
 - VueJS
+
 I usually spend my free time learning Rust.
 
 Some stats :p 
