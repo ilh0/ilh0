@@ -17,18 +17,6 @@ Some stats :p
 
 Software I use:
 
-<a href=https://html.spec.whatwg.org/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png width=40px height=40px>
-</a>
-
-<a href= https://www.w3.org/TR/CSS/#css >
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png width=30px height=40px>
-</a>
-
-<a href= https://ecma-international.org/publications-and-standards/standards/ecma-262/ >
-<img src=https://www.computerhope.com/jargon/j/javascript.png width=40px height=40px>
-</a>
-
 <a href=https://www.mozilla.org/en/firefox>
 <img src=https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-lg-high-res.fbc7ffbb50fd.png width=40px height=40px>
 </a>
