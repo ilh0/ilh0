@@ -18,7 +18,7 @@ Some stats :p
 Software I use:
 
 <a href=https://www.mozilla.org/en/firefox>
-<img src=https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-lg-high-res.fbc7ffbb50fd.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Firefox_Developer_Edition_logo%2C_2019.svg/998px-Firefox_Developer_Edition_logo%2C_2019.svg.png width=40px height=40px>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Firefox_Developer_Edition_logo%2C_2019.svg/107px-Firefox_Developer_Edition_logo%2C_2019.svg.png width=40px height=40px>
 </a>
 
 <a href=https://code.visualstudio.com/>
